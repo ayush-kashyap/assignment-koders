@@ -2,6 +2,8 @@
 
 Flutter assignment by Ayush Kashyap
 
+APK Link https://drive.google.com/file/d/1otGQxJ0KMJZR-kSyrfbIVA0bXYFTqOM6/view?usp=sharing
+
 **Login Credentials :** 
 
 **Username** : johnd
@@ -41,8 +43,14 @@ I have used Shimmer for managing the loading status of dashboard.
 Couldn't show pagination because the API does not support it. Implementation of pull to refresh is there.
 
 
-***Note :*** _This project is made keeping in mind to meed the guidelines and not the functionalities, That's the only reason I have dropped the idea of creating Cart and other features an Ecommerce app should have, And focused more on smoothing the User experience. If given time I can develop much more than that as well._
+***Note :*** _This project is made keeping in mind to meet the guidelines and not the functionalities, That's the only reason I have dropped the idea of creating Cart and other features an Ecommerce app should have, And focused more on smoothing the User experience. If given time I can develop much more than that as well._
 
+## Future Possibilities
+
+1. Implementing proper functionalities of an Ecommerce APP.
+2. Adding Flavors to differentiate Dev, Staging, Prod environments.
+3. Integrating Firebase.
+4. Other minor improvements.
 
 ## Screenshots 
 
