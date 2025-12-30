@@ -47,9 +47,8 @@ Couldn't show pagination because the API does not support it. Implementation of 
 ## Screenshots 
 
 
-![Simulator Screenshot - iPhone 16e - 2025-12-30 at 13.18.45.png](../../Simulator%20Screenshot%20-%20iPhone%2016e%20-%202025-12-30%20at%2013.18.45.png)
-![Simulator Screenshot - iPhone 16e - 2025-12-30 at 15.40.48.png](../../Simulator%20Screenshot%20-%20iPhone%2016e%20-%202025-12-30%20at%2015.40.48.png)
-![Simulator Screenshot - iPhone 16e - 2025-12-30 at 15.41.38.png](../../Simulator%20Screenshot%20-%20iPhone%2016e%20-%202025-12-30%20at%2015.41.38.png)
-![Simulator Screenshot - iPhone 16e - 2025-12-30 at 15.41.42.png](../../Simulator%20Screenshot%20-%20iPhone%2016e%20-%202025-12-30%20at%2015.41.42.png)
-
+![Dashboard Loading shimmer](assets/screenshots/screenshot1.png)
+![Login Screen](assets/screenshots/screenshot2.png)
+![Dashboard](assets/screenshots/screenshot3.png)
+![Product View](assets/screenshots/screenshot4.png)
 
